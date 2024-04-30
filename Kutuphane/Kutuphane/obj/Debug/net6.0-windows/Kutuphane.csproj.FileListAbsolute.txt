@@ -1,0 +1,101 @@
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Kutuphane.exe
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Kutuphane.deps.json
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Kutuphane.runtimeconfig.json
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Kutuphane.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\ref\Kutuphane.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Kutuphane.pdb
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\ref\Kutuphane.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.pdb
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.Form1.resources
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\yunusBro\kutuphane\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.csproj.CopyComplete
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Kutuphane.exe
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Kutuphane.dll.config
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Kutuphane.deps.json
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Kutuphane.runtimeconfig.json
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Kutuphane.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Kutuphane.pdb
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.dll.config
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.Form1.resources
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.csproj.GenerateResource.cache
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.AssemblyInfoInputs.cache
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.AssemblyInfo.cs
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.csproj.CopyComplete
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\refint\Kutuphane.dll
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.pdb
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\Kutuphane.genruntimeconfig.cache
+C:\Users\esman\Desktop\kütüphane otomasyon\BookApp\Kutuphane\Kutuphane\obj\Debug\net6.0-windows\ref\Kutuphane.dll
